@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/QMainWnd">
+        <file>Resources/mainmenu.xml</file>
+    </qresource>
+</RCC>

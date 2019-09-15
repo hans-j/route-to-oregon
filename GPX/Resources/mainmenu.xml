@@ -1,0 +1,20 @@
+<xmlmenu>
+  <menu name="Datei" >
+	  <action  name="Öffnen" id="101" />
+    <action  name="Speichern PC" id="102" />
+    <action  name="Speichern Garmin" id="103" />
+  </menu>
+
+  <menu name="Bearbeiten" >
+    <action  name="Route erstellen" id="201" />
+    <action  name="Route löschen"   id="202" />
+    <action  name="Track umkehren"  id="203" />
+  </menu>
+
+  <menu name="Options" >
+    <action  name="Cache-Verzeichnis" id="901" />
+    <action  name="Cache löschen"     id="902" />
+  </menu>	  
+</xmlmenu>
+  
+  
